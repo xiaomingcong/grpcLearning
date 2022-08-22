@@ -17,6 +17,7 @@
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
 <!--        <os.detected.classifier>windows-x86_64</os.detected.classifier>-->
+<!--        <os.detected.classifier>osx-x86_64</os.detected.classifier>-->
     </properties>
 
     <dependencies>
